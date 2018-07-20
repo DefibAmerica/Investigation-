@@ -1,0 +1,3 @@
+entrypoint: index.html
+env: flex
+runtime: python
